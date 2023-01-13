@@ -11,7 +11,7 @@ tags:
 
 ## This README is an introduction to trying out two AI coding tools. 
 
-I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt. 
+With this guide I want to help put some AI tools into context and de-hype them a little bit but also recognize their use cases. I have a personal opinion that these tools are suitable for their purpose as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other programming techniques as part of a balanced diet and toolbelt. 
 
 Products out there I am focusing on:
 * Github Copilot (paid, in IDE, $10 a month)
@@ -25,7 +25,7 @@ Emerging products/uses **not** the focus of this post:
 * chatGPT and synthetic text generative AI’s as coding tools:
     * There have been some attempts at using chatGPT as a coding tool but there are real flaws with it. It can produce some amazing looking attempts at coding but does not seem to follow the same kind of product as CoPilot or Ghostwriter which are trained exclusively on code and samples. It is an emerging field but I won't be focusing on it now. 
 
-* [I am aware of legal issues facing Github Copilot](https://githubcopilotlitigation.com/). This is due to the incompatible licensing of some of the code on GitHub that the model is trained on. This needs to be fixed but I don't think it should stop any individual user from learning about this tool. Seek your own advice before using it for anything commercial.
+* I am aware of a legal case facing Github Copilot. This is due to the incompatible licensing of some of the code on GitHub that the model is trained on. This needs to be fixed but I don't think it should stop any individual user from learning about this tool. Seek your own advice before using it for anything commercial.
 
 I think a set of observations has to begin this post:
 
@@ -122,7 +122,7 @@ Opening the multiple answers side-panel with Ctrl + Enter will show potentially 
 
 ## Commentary: a balanced diet & limits
 
-The real joy and sweet spot of using this tool is when you get initial feedback from a few prompts that pushes you forward in a direction you were already going. Sometimes it just saves you time doing boilerplate, or repetitive coding. GitHub itself heavily markets this aspect that you "Spend more time doing what you enjoy doing".
+The real joy and sweet spot of using this tool is when you get initial feedback from a few prompts that pushes you forward in a direction you were already going. Sometimes it just saves you time doing boilerplate or repetitive coding. GitHub itself heavily markets this aspect that you "Spend more time doing what you enjoy doing".
 
 On the other side, there is a diminishing return to using Github Copilot for certain uses. Many questions cross domains of knowledge and languages, some rely on context and specific information that only you can easily access. Copilot is just a tool and it produces a lot of junk you need to sift through and often it simply is not worth it until you have studied more.
 
