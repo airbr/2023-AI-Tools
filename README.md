@@ -5,14 +5,13 @@ tags:
     - AI
     - Coding
     - Programming
-    - CSS
-    - ReactJS
-    - Prompt
     - Copilot
     - Ghostwriter
 ---
 
-This README is an introduction to trying out two AI coding tools. I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt. 
+## This README is an introduction to trying out two AI coding tools. 
+
+I want to help put them into context and de-hype them a little bit but recognize their use cases. I have a strong personal opinion these tools are primarily suitable to certain educational environments such as a coding generation AI tool. Basically, I hope this guide helps you find usage of AI versus other methods as part of a balanced diet and toolbelt. 
 
 Products out there I am focusing on:
 * Github Copilot (paid, in IDE, $10 a month)
